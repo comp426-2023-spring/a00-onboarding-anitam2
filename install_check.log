@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin anitas-mbp.wireless-1x.unc.edu 22.3.0 Darwin Kernel Version 22.3.0: Thu Jan  5 20:49:43 PST 2023; root:xnu-8792.81.2~2/RELEASE_ARM64_T8103 arm64
+SHELL:	[/bin/zsh]
+GIT:	[/opt/homebrew/bin/git] git version 2.37.2
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Dec 16 2022 23:29:16)
+CURL:	[/usr/bin/curl] curl 7.86.0 (x86_64-apple-darwin22.0) libcurl/7.86.0 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/anitamurali/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
